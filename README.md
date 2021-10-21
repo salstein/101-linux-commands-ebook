@@ -172,7 +172,7 @@ Creating physical partitions is **not required**! You can create PVs directly!
 ---
 
 ## Globs (Wildcards)
-The dot `.` in front of hidden items is ignored by glob patterns!
+The dot `.` in front of hidden items is been ignored by glob patterns!
 
 | Character | Description             |
 | --------- | ----------------------- |
