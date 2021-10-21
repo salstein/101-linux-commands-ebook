@@ -2,12 +2,12 @@
 
 return [
     /**
-     * The book title.
+     * The book's title.
      */
     'title' => '101 Linux Commands eBook',
 
     /**
-     * The author name.
+     * The author's name.
      */
     'author' => 'Bobby Iliev and the Hacktoberfest community',
 
